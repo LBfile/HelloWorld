@@ -11,5 +11,6 @@ public class BookMain {
 		System.out.println("    id:"+book.getId());
 		System.out.println("    name:"+book.getName());
 		System.out.println("给masterd打上v_master_1.0的标签");
+		System.out.println("v_master_1.0 完结");
 	}
 }
