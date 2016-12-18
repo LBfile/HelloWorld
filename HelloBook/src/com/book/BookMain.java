@@ -10,6 +10,8 @@ public class BookMain {
 		System.out.println("book:");
 		System.out.println("    id:"+book.getId());
 		System.out.println("    name:"+book.getName());
-		System.out.println("创建develop分支֧");
+		System.out.println("给masterd打上v_master_1.0的标签");
+		System.out.println("v_master_1.0 完结");
+		System.out.println("v_master_1.1 开始");
 	}
 }
