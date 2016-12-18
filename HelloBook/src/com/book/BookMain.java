@@ -10,6 +10,6 @@ public class BookMain {
 		System.out.println("book:");
 		System.out.println("    id:"+book.getId());
 		System.out.println("    name:"+book.getName());
-		System.out.println("ÕâÀïÎÒÒª¸ømaster´òÉÏ v1.0µÄ±êÇ©");
+		System.out.println("ç»™masterdæ‰“ä¸Šv_master_1.0çš„æ ‡ç­¾");
 	}
 }
