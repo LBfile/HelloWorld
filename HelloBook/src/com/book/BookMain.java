@@ -16,7 +16,7 @@ public class BookMain {
 		//紧急修改masterd_v1.0
 		int a = 5;
 		for(int i=0;i<a;i++){
-			System.out.println("i=:"+i);
+			System.out.println("i="+i);
 		}
 	}
 }
