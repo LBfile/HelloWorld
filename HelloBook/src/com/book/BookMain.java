@@ -8,7 +8,7 @@ public class BookMain {
 		book.setId("bookDellId");
 		book.setName("bookDellName");
 		System.out.println("book:");
-		System.out.println("  id:"+book.getId());
-		System.out.println("  name:"+book.getName());
+		System.out.println("    id:"+book.getId());
+		System.out.println("    name:"+book.getName());
 	}
 }
