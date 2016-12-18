@@ -13,5 +13,6 @@ public class BookMain {
 		System.out.println("给masterd打上v_master_1.0的标签");
 		System.out.println("v_master_1.0 完结");
 		System.out.println("v_master_1.1 开始");
+		//紧急修改masterd_v1.0
 	}
 }
